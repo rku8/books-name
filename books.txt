@@ -1,0 +1,22 @@
+1. Approaching (almost) any machine learning problem
+2. Hands-On Machine Learning with Scikit-Learn, keras, and tensorflow
+3. Practical time series analysis
+4. Deeplearning with python
+5. Deep learning for coders with fastai and Pytorch
+6. Python data sciene handbook
+7. Data Science from Scratch
+8. Practical time series forecasting with R
+9. Introduction to data mining
+10. Machine Learning with R
+11. R for everyone
+12. Practical data science with R
+13. R in action
+14. Schaum's Linear Algebra
+15. Learning from data
+16. An Introduction to Statistical Learning
+17. Coding the matrix (Linear Algebra through Computer Science Applications) 
+18. Introductory probability and statistical applications
+19. Statistics fourth edition
+20.Pattern Recognition
+21. Forecasting Methods and applications
+22. Statistics for big data
